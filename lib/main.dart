@@ -1,4 +1,3 @@
-import 'package:audio_player/audio_player_just_audio.dart';
 import 'package:audio_player/just_audio_page.dart';
 import 'package:audio_player/player_bloc/just_audio_player_cubit.dart';
 import 'package:flutter/material.dart';
